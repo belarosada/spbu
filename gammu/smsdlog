@@ -1,0 +1,59 @@
+Wed 2009/08/12 14:37:22 gammu-smsd[2788]: No gammu configuration found!
+Wed 2009/08/12 15:49:02 gammu-smsd[996]: No gammu configuration found!
+Wed 2009/08/12 15:54:39 gammu-smsd[2228]: No gammu configuration found!
+Wed 2009/08/12 16:05:40 gammu-smsd[3728]: No gammu configuration found!
+Wed 2009/08/12 16:07:04 gammu-smsd[3344]: No gammu configuration found!
+Wed 2009/08/12 16:07:24 gammu-smsd[216]: No gammu configuration found!
+Wed 2009/08/12 16:08:28 gammu-smsd[2872]: No gammu configuration found!
+Wed 2009/08/12 16:17:02 gammu-smsd[3376]: No gammu configuration found!
+Wed 2009/08/12 16:23:09 gammu-smsd[3836]: No gammu configuration found!
+Wed 2009/08/12 16:23:34 gammu-smsd[1692]: No gammu configuration found!
+Wed 2009/08/12 16:24:03 gammu-smsd[2932]: No gammu configuration found!
+Wed 2009/08/12 16:30:12 gammu-smsd[880]: Starting phone communication...
+Wed 2009/08/12 16:33:39 gammu-smsd[880]: Error getting security status (Error writing to the device.:11)
+Wed 2009/08/12 16:33:43 gammu-smsd[880]: Error getting security status (Error writing to the device.:11)
+Wed 2009/08/12 16:33:47 gammu-smsd[880]: Error getting security status (Error writing to the device.:11)
+Wed 2009/08/12 16:33:47 gammu-smsd[880]: Terminating communication No error., (1, 3 times)
+Wed 2009/08/12 16:33:47 gammu-smsd[880]: Starting phone communication...
+Wed 2009/08/12 16:33:47 gammu-smsd[880]: Error at init connection Error opening device, it doesn't exist. (4)
+Wed 2009/08/12 16:33:47 gammu-smsd[880]: Terminating communication Error opening device, it doesn't exist., (4, 250 times)
+Wed 2009/08/12 16:33:47 gammu-smsd[880]: Going to 30 seconds sleep because of too much connection errors
+Wed 2009/08/12 16:33:50 gammu-smsd[880]: Starting phone communication...
+Wed 2009/08/12 16:33:50 gammu-smsd[880]: Error at init connection Error opening device, it doesn't exist. (4)
+Wed 2009/08/12 16:33:53 gammu-smsd[1344]: Starting phone communication...
+Wed 2009/08/12 16:33:53 gammu-smsd[1344]: Error at init connection Error opening device, it doesn't exist. (4)
+Wed 2009/08/12 16:33:53 gammu-smsd[1344]: Terminating communication Error opening device, it doesn't exist., (4, 250 times)
+Wed 2009/08/12 16:33:53 gammu-smsd[1344]: Starting phone communication...
+Wed 2009/08/12 16:33:53 gammu-smsd[1344]: Error at init connection Error opening device, it doesn't exist. (4)
+Wed 2009/08/12 16:33:53 gammu-smsd[1344]: Terminating communication Error opening device, it doesn't exist., (4, 250 times)
+Wed 2009/08/12 16:33:53 gammu-smsd[1344]: Starting phone communication...
+Wed 2009/08/12 16:33:53 gammu-smsd[1344]: Error at init connection Error opening device, it doesn't exist. (4)
+Wed 2009/08/12 16:33:53 gammu-smsd[1344]: Terminating communication Error opening device, it doesn't exist., (4, 250 times)
+Wed 2009/08/12 16:33:53 gammu-smsd[1344]: Starting phone communication...
+Wed 2009/08/12 16:33:53 gammu-smsd[1344]: Error at init connection Error opening device, it doesn't exist. (4)
+Wed 2009/08/12 16:33:53 gammu-smsd[1344]: Terminating communication Error opening device, it doesn't exist., (4, 250 times)
+Wed 2009/08/12 16:33:53 gammu-smsd[1344]: Going to 30 seconds sleep because of too much connection errors
+Wed 2009/08/12 16:34:23 gammu-smsd[1344]: Starting phone communication...
+Wed 2009/08/12 16:34:23 gammu-smsd[1344]: Error at init connection Error opening device, it doesn't exist. (4)
+Wed 2009/08/12 16:34:23 gammu-smsd[1344]: Terminating communication Error opening device, it doesn't exist., (4, 250 times)
+Wed 2009/08/12 16:34:23 gammu-smsd[1344]: Going to 30 seconds sleep because of too much connection errors
+Wed 2009/08/12 16:34:53 gammu-smsd[1344]: Starting phone communication...
+Wed 2009/08/12 16:34:53 gammu-smsd[1344]: Error at init connection Error opening device, it doesn't exist. (4)
+Wed 2009/08/12 16:34:53 gammu-smsd[1344]: Terminating communication Error opening device, it doesn't exist., (4, 250 times)
+Wed 2009/08/12 16:34:53 gammu-smsd[1344]: Going to 30 seconds sleep because of too much connection errors
+Wed 2009/08/12 16:35:23 gammu-smsd[1344]: Starting phone communication...
+Wed 2009/08/12 16:35:23 gammu-smsd[1344]: Error at init connection Error opening device, it doesn't exist. (4)
+Wed 2009/08/12 16:35:23 gammu-smsd[1344]: Terminating communication Error opening device, it doesn't exist., (4, 250 times)
+Wed 2009/08/12 16:35:23 gammu-smsd[1344]: Going to 30 seconds sleep because of too much connection errors
+Wed 2009/08/12 16:35:53 gammu-smsd[1344]: Starting phone communication...
+Wed 2009/08/12 16:35:53 gammu-smsd[1344]: Error at init connection Error opening device, it doesn't exist. (4)
+Wed 2009/08/12 16:35:53 gammu-smsd[1344]: Terminating communication Error opening device, it doesn't exist., (4, 250 times)
+Wed 2009/08/12 16:35:53 gammu-smsd[1344]: Going to 30 seconds sleep because of too much connection errors
+Wed 2009/08/12 16:35:57 gammu-smsd[1344]: Starting phone communication...
+Wed 2009/08/12 16:35:57 gammu-smsd[1344]: Error at init connection Error opening device, it doesn't exist. (4)
+Wed 2009/08/12 16:38:05 gammu-smsd[3416]: Starting phone communication...
+Wed 2009/08/12 16:44:01 gammu-smsd[3416]: Terminating communication...
+Wed 2009/08/12 16:45:13 gammu-smsd[1708]: Connected to Database: sms on localhost
+Wed 2009/08/12 16:45:13 gammu-smsd[1708]: Starting phone communication...
+Wed 2009/08/12 16:45:17 gammu-smsd[1708]: Communication established
+Wed 2009/08/12 20:20:51 gammu-smsd[1708]: Terminating communication...
